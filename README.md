@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏾‍🎓  I'm graduating in Analysis System Development at FATEC Campinas.<br>🌱 I'm currently learning  Java and JavaScript.<br>🤖 I'm looking for an opportunity in Software Development.<br>⚡ Fun fact I really love "paçoca".
+👨🏾‍🎓  I'm graduating in Analysis System Development at IFSP - Campinas.<br>🌱 I'm currently learning  Java and JavaScript.<br>🤖 I'm looking for an opportunity in Software Development.<br>⚡ Fun fact I really love "paçoca".
 
 
 ## 🌐 Socials:
